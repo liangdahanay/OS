@@ -1,2 +1,1 @@
-# OS
-operation systems exercises
+Test some commands
